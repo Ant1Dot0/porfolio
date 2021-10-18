@@ -7,6 +7,21 @@ body {
   --main-color: white;
 }
 
+.text-title {
+  font-family: "Open Sans";
+  text-align: center;
+}
+
+.img-perfil {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  width: 20%;
+  height: 20%;
+}
+
 .bg {
   text-align: center;
   padding: 10px;
